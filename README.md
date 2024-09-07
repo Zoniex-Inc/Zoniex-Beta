@@ -1,4 +1,4 @@
-![Zoniex Inc](https://github.com/user-attachments/assets/0800171b-7120-487d-a485-7b964460f632)
+![Zoniex Inc](https://i.postimg.cc/59pmdd3S/Zoniex-Inc.png)
 <p align="center">
   <a href="https://discord.gg/tjX8fVa7b3"><img src="https://img.shields.io/discord/1264480934212927508?color=blue&label=Discord&logo=HolaClient&logoColor=blue" alt="discord" /></a>
   <a href="https://zoniex.me"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://zoniex.me"></a>
